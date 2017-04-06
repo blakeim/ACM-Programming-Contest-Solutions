@@ -5,6 +5,7 @@ using namespace std;
 
 /*
 Equidivisions (UVa 11110)
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2051
 
 Authors Ian Blake and Seth Kuller 
 March 22nd 2013 

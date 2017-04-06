@@ -4,6 +4,7 @@ using namespace std;
 
 /*
 Brick Wall Patterns (UVa 900)
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=841
  
 Author Ian Blake 
 April 6 th 2013 

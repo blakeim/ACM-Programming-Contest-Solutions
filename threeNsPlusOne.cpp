@@ -4,6 +4,7 @@ using namespace std;
 
 /* 
 The 3n + 1 problem (UVa 100)
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
 
 Author Ian Blake
 April 2013

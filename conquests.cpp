@@ -7,6 +7,7 @@ using namespace std;
 
 /*
 List of Conquests (UVa 10420)
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1361
 
 Author Ian Blake
 April 26th 2013 

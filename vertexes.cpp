@@ -5,6 +5,8 @@ using namespace std
 
 /*
 Vertex (UVa 280)  
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=216
+
 Author: Seth Kuller & Ian Blake 
 Date: 03/15/2013 
 
