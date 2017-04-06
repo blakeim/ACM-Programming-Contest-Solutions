@@ -27,10 +27,7 @@ That boolean would remain true and the matrix is good. We had a problem that
 we couldn’t solve where this approach worked for every number but n, (5 for this case). 
 The counter would over count at the last number and, for example with 5, we would end 
 up with 17, which seemed to suggest that the counting loop was running multiple times 
-without resetting the 5’s (or ns) to -1. Dr Mayﬁeld took a brief look at this one and 
-couldn’t ﬁgure out why that was. He suggested we reworke the whole method and I’m 
-thinking I’ll have to do just that because I haven’t been able to salvage what we 
-have, still having an issue at n.
+without resetting the 5’s (or ns) to -1, still having an issue at n.
 
 SOLUTION CORRECT : NO
 */
